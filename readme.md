@@ -2,9 +2,9 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/Schrodinger-Kat?style=for-the-badge)](https://github.com/Schrodinger-kat?tab=followers) 
 
-Congratulations! You have find a new way to stalk me, ![Visitor](https://img.shields.io/github/watchers/Schrodinger-kat/Schrodinger-kat?style=social).
-
-Since you're already here, find me on: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jishnnp) [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://in.linkedin.com/in/jishnnp) 
+Congratulations! You have find a new way to stalk me, [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Schrodinger-kat/Schrodinger-kat)](https://github.com/Schrodinger-kat)
+![Visitor](https://img.shields.io/github/watchers/Schrodinger-kat/Schrodinger-kat?style=social).  
+Since you're already here, find me on: [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jishnnp) [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://in.linkedin.com/in/jishnnp)
 
 <h2>🙋‍♂️ konnichiwa! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Jishnn Tp. </h2>
 
