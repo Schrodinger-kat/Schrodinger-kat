@@ -28,7 +28,7 @@ Since you're already here, find me on: [![LinkedIn Badge](https://img.shields.io
 </a>  
 
 <a href="https://github.com/Schrodinger-kat/Schrodinger-kat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Schrodinger-kat&show_icons=true&line_height=25&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jishnn's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Schrodinger-kat&theme=dracula&show_icons=true&line_height=24.5&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jishnn's GitHub Stats"/>
 </a>
 
 💞️ I’m looking foward to collaborate on open source projects.
