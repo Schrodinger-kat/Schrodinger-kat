@@ -1,4 +1,4 @@
-![Schrodinger_Kat's Github Banner](./assets/Github_Banner.png)
+![Schrodinger_Kat's Github Banner](./assets/GithubBanner.png)
 
 [![GitHub followers](https://img.shields.io/github/followers/Schrodinger-Kat?style=for-the-badge)](https://github.com/Schrodinger-kat?tab=followers) 
 
